@@ -1,0 +1,22 @@
+{
+  "name": "rcon-client",
+  "version": "1.0.0",
+  "description": "A basic RCON client that can be used to automate processes.",
+  "main": "Connect.js",
+  "dependencies": {
+    "rcon": "^1.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node Connect.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/XanaOG/Basic-RCON"
+  },
+  "keywords": [
+    "RCON"
+  ],
+  "author": "XanaOG",
+  "license": "ISC"
+}
